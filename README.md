@@ -1,7 +1,7 @@
 SELECTearch
 ===========
 
-A simple, sweet and clean script to convert your "SELECT BOX" into Searchable Select Box.!
+A simple, sweet and clean jQuery plugin to convert your "SELECT BOX" into Searchable Select Box.!
 
 
 
